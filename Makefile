@@ -51,5 +51,7 @@ install: pip_install jupyter_install
 
 update: pip_compile install
 
+check: pip_check
+
 run: jupyter_run
 
