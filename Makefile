@@ -47,7 +47,7 @@ jupyter_run:
 
 clean: venv_clean
 
-prepare: venv_setup
+setup: venv_setup
 
 install: pip_install jupyter_install
 
