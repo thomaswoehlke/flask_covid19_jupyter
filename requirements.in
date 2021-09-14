@@ -10,36 +10,64 @@ pytoolbox
 python-dotenv
 Cython
 ipython
+#
+#
+### Notebooks
+#
 jupyter
 notebook
-numpy
-matplotlib
-pandas
-wget
-scipy
+jupyterlab_widgets
 prettytable
 ipyleaflet
-bqplot
-k3d
-gmaps
-jupyterlab_widgets
 ipywidgets
 perspective-python
+k3d
+beakerx
+bqplot
+#
+#
+### needed
+#
+Pillow
+fiona
+jinja2
+#
+#
+### Tools
+#
+wget
+#
+#
+### DATA
+#
+numpy
+pandas
+scipy
+scikit-image[optional]
+#
+#
+### Data Visualisation
+#
+matplotlib
+seaborn[all]
+#
+#
+### Graph and Network Analytics
+#
 python-igraph
-#networkx[default]
 networkx[default,extra]
 pygraphviz
 pydot
 pyyaml
-#GDAL
 lxml
-scikit-image[optional]
-OWSLib
-Pillow
-geopandas
-momepy
+#
+#
+### Maps, OpenStreetMaps, GoogleMaps, GEO
+#
 osmnx
-#seaborn
-seaborn[all]
-beakerx
-#cartopy
+gmaps
+cartopy
+oneworld
+momepy
+OWSLib
+#GDAL
