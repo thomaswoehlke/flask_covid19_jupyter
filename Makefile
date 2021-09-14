@@ -7,6 +7,8 @@ PIP_REQUIREMENTS_DIR := .
 NOTEBOOK_CLI := jupyter
 JUPYTER := jupyter
 
+.PHONY: all
+
 all: run
 
 venv_setup:
