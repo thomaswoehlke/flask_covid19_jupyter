@@ -20,6 +20,7 @@ make run
 ```
 
 ## Useful Resources:
+* [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 * [pypi.org | Python Package Index](https://pypi.org/)
 * [jupyter Notebooks](https://jupyter.org/documentation)
 ### Package Info at pypi.org
