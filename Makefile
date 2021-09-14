@@ -23,6 +23,7 @@ pip_check:
 pip_update:
 	@echo "pip_update"
 	$(PYTHON) -m pip install --upgrade pip
+	$(PYTHON) -m pip install --upgrade setuptools
 
 pip_compile: pip_update
 	@echo "pip_compile"
