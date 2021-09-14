@@ -40,10 +40,15 @@ wget
 #
 ### DATA
 #
-numpy
+NumPy
+python-dateutil
+pytz
+numexpr
+bottleneck
 pandas
-scipy
+SciPy
 scikit-image[optional]
+xarray
 #
 #
 ### Data Visualisation
