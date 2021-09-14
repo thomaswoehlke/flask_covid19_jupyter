@@ -45,6 +45,8 @@ jupyter_run:
 	@echo "jupyter_run"
 	jupyter notebook
 
+clean: venv_clean
+
 prepare: venv_setup
 
 install: pip_install jupyter_install
