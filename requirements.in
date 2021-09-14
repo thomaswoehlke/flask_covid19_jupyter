@@ -49,7 +49,7 @@ scikit-image[optional]
 ### Data Visualisation
 #
 matplotlib
-seaborn[all]
+seaborn
 #
 #
 ### Graph and Network Analytics
