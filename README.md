@@ -12,7 +12,7 @@ git clone git@github.com:thomaswoehlke/flask_covid19_jupyter.git
 
 ### Linux
 ```bash
-make prepare
+make setup
 . ./venv/bin/activate
 make install
 make update
