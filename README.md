@@ -78,6 +78,8 @@ make run
 * [oneworld](https://pypi.org/project/oneworld/)
 * [momepy](https://pypi.org/project/momepy/)
 * [OWSLib](https://pypi.org/project/OWSLib/)
+* [click<8.0,>=7.0](https://pypi.org/project/click<8.0,>=7.0/)
+
 #### to update this List run:
 ```bash
 ./getPyPiInfos.py
