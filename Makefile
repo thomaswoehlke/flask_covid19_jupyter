@@ -59,4 +59,6 @@ update: pip_compile install
 
 check: pip_check
 
+start: install
+
 run: jupyter_run
