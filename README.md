@@ -3,6 +3,10 @@
 * [Git Repository](https://github.com/thomaswoehlke/flask_covid19_jupyter.git)
 * [Issues](https://github.com/thomaswoehlke/flask_covid19_jupyter/issues) 
 
+## Setup Runtime, IDE, Project
+* [Setup the Working/Dev-Environment with Anaconda3 and PyCharm](doc/setup_dev_environment_with_anaconda.md)
+* [Alternative Setup: using python-PIP Virtual Environment instead of Anaconda](doc/setup_dev_environment_with_venv.md)
+
 ## setup project 
 
 ### git
@@ -18,11 +22,6 @@ make install
 make update
 make run
 ```
-
-## Setup Runtime, IDE, Project
-* [Setup the Working/Dev-Environment with Anaconda3 and PyCharm](doc/setup_dev_environment_with_anaconda.md)
-* [Alternative Setup: using python-PIP Virtual Environment instead of Anaconda](doc/setup_dev_environment_with_venv.md)
-
 
 ## Useful Resources:
 * [Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
